@@ -2,7 +2,7 @@ Star Wars Planet Database
 ==============================================================================================================================
 To setup the application, simply run the following commands:
 
-npm run install
+npm install
 npm start
 
 This will update all the libraries and run the application. For this excercise I have chosen a gridview to see some of 
