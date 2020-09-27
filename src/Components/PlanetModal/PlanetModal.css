@@ -1,0 +1,6 @@
+.my-modal .modal-content {
+    background: rgb(0,0,6);
+    background: linear-gradient(90deg, rgba(0,0,6,1) 0%, rgba(35,35,43,1) 50%, rgba(83,83,83,1) 100%);
+    color: white;
+    max-width: none;
+  }
